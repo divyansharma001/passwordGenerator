@@ -2,6 +2,10 @@
 
 This is a simple React-based password generator app with adjustable length, character options, and a copy-to-clipboard feature.
 
+## Screenshot
+![Home Page](./public/passwordGen.png)
+
+
 ## Features
 
 - Adjustable password length
